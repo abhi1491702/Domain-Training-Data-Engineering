@@ -1,0 +1,7 @@
+,Product,Category,Price,Quantity,SalesDate
+0,Laptop,Electronics,1200,50,2023-01-15
+1,Headphones,Electronics,100,100,2023-01-20
+2,Smartphone,Electronics,800,75,2023-01-25
+3,Jacket,Apparel,150,30,2023-02-02
+4,Jeans,Apparel,60,80,2023-02-05
+5,Smartwatch,Electronics,200,40,2023-02-10
